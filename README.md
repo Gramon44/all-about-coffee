@@ -1,3 +1,3 @@
 # all-about-coffee
 # This is a basic website with navigational links and media files. It was completed by following the tutorial named "HTML5 and CSS3 Fundamentals" on Udemy.com (https://www.udemy.com/html5-fundamentals-for-beginners/learn/v4/t/lecture/3518498?start=0).
-# I would recommend this course for anyone looking to get failiar with HTML5 and CSS3 basic functions as it was easy to follow along and requires almost no prior experience to get going! 
+# I would recommend this course for anyone looking to get familiar with HTML5 and CSS3 basic functions as it was easy to follow along and requires almost no prior experience to get going! 
